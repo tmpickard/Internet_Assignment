@@ -1,0 +1,150 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+	background-color: white;
+	width: 970px;
+}
+#header{
+	display: inline-block;
+	height: 115px;
+}
+#globe{
+	height: 85px;
+	width: 85px;
+	z-index: 1;
+	position: absolute;
+}
+.title{
+	font-size: 60px;
+	margin-left: 85px;
+	display: inline-block;
+}
+.www{
+	background: linear-gradient(#50789b, #588fbc, #50789b);
+	width: 970px;
+	padding-left: 15px;
+	height: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+}
+#sidebar{
+	margin-top: 5px;
+	height: 450px;
+	width: 165px;
+	padding-top: 0px;
+	background-color: white;
+	display: inline-block;
+	vertical-align: top;
+}
+#description{
+	height: 180px;
+	background: linear-gradient(#e3e3e3, white);
+}
+#what{
+	margin-top: 25px;
+	margin-left: 5px;
+	font-size: 13px;
+	margin-bottom: 15px;
+}
+.button{
+	margin-top: 10px;
+	border-radius: 5px;
+	height: 30px;
+	width: 160px;
+	box-shadow: 1px 1px;
+	border-color: #C0C0C0;
+	text-align: center;
+}
+#advertisement{
+	width: 165px;
+	height: 165px;
+	background-image: url("ad_background.png");
+	background-image: contain;
+	color: white;
+}
+#whitetext{
+	text-align: center;
+}
+#mainbody{
+	margin-top: 4px;
+	margin-left: 0px;
+	width: 790px;
+	height: 500px;
+	display: inline-block;
+	vertical-align: top;
+	background-color: white;
+}
+#topline{
+	height: 60px;
+	width: 792px;
+	background: linear-gradient(#e3e3e3, white);
+	padding-right: 0px;
+	display: inline-block;
+}
+.dns{
+	margin-top: 15px;
+	color: #7198BB;
+	font-size: 15px;
+	display: inline-block;
+	vertical-align: top;
+}
+#phone{
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 530px;
+}
+#contact{
+	vertical-align: top;
+	padding-right: 8px;
+	text-align: right;
+	font-size: 12px;
+	display: inline-block;
+}
+.contact-text{
+	font-size: 12px;
+	text-align: right;
+	display: inline-block;
+}
+.white{
+	padding-top: 5px;
+	color: white;
+}
+.list_margin{
+	margin-left: 37px;
+	font-size: 12px;
+}
+#relation-image{
+	margin-left: 250px;
+}
+#what_happens{
+
+}
+#big3{
+	width: 790px;
+	border: 1px #0085E0;
+	border-style: solid;
+	display: inline-block;
+	border-bottom: none;
+}
+.paragraph-head{
+	color: #2D6BA2
+}
+#closing-pic{
+	margin-top: 0px;
+	display: inline-block;
+	vertical-align: top;
+}
+#closing-text{
+	width: 670px;
+	display: inline-block;
+	vertical-align: top;
+}
+hr{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border: 1px solid grey;
+	opacity: 0.5;
+}
